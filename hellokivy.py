@@ -9,26 +9,24 @@ from kivy.uix.listview import ListItemButton
 from kivy.properties import ObjectProperty
 from kivy.base import runTouchApp
 
-#總之先import了一堆東西
+#先import部分會用的資料庫
 
-class ListButton(ListItemButton):
+class ListButton(ListItemButton):#按鈕部分
     pass
-#還沒有寫
+#暫時跳過
 
-class AmbulancePassing(BoxLayout):
+class AmbulancePassing(BoxLayout):#宣告物件
     first_location_text_input = ObjectProperty()
     last_location_text_input = ObjectProperty()
     sth_list = ObjectProperty()
-#定義了一堆東西
 
-    def submit_location(self):
+    def submit_location(self):#輸入部分
         first_location_spot = self.first_location_text_input.text
-#應該是可以輸入的東西
 
-    def delete_location(self):
+    def delete_location(self):#之後的地點移除
         pass
 
-    def replace_location(self):
+    def replace_location(self):#之後的地點交換
         pass
 
 class AmbulancePassingApp(App):
@@ -37,4 +35,4 @@ class AmbulancePassingApp(App):
     
 apApp = AmbulancePassingApp()
 apApp.run()
-#總之有個黑色的頁面
+#執行

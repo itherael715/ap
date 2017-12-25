@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 import kivy
 from kivy.app import App
 from kivy.uix.button import Label
@@ -6,6 +7,7 @@ from kivy.uix.dropdown import DropDown
 from kivy.uix.button import Button
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.listview import ListItemButton
+from kivy.uix.textinput import TextInput
 from kivy.properties import ObjectProperty
 from kivy.base import runTouchApp
 from kivy.core.text import LabelBase
@@ -40,9 +42,9 @@ class SampleApp(App):
     def build(self):
         # Set the background color for the window
         Window.clearcolor = (1, 1, 1, 1)
+        textinput = TextInput()
+        textinput.bind()
         return SampBoxLayout()
-
-
+    
 sample_app = SampleApp()
 sample_app.run()
-

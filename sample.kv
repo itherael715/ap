@@ -1,0 +1,88 @@
+#: import CheckBox kivy.uix.checkbox
+ 
+<CustLabel@Label>:
+    color: 0, 0, 0, 1
+ 
+<CustomPopup>:
+    size_hint: .5, .5
+    auto_dismiss: False
+    title: "The Popup"
+    Button:
+        text: "Close"
+        on_press: root.dismiss()
+<Label>:
+    font_name: 'DroidSansFallback.ttf'
+SampBoxLayout:
+
+<SampBoxLayout>:
+    orientation: "vertical"
+    padding: 10
+    spacing: 10
+ 
+    # ---------- Holds CheckBox and RadioBox ----------
+    BoxLayout:
+        orientation: "horizontal"
+        height: 10
+ 
+        BoxLayout:
+            orientation: "horizontal"
+            size_hint_x: .55
+
+            CustLabel:
+                text: "起點"
+                color: 0, 0, 0, 1
+                size_hint_x: .05
+            CustLabel:
+                text: "現在位置"
+                color: 0, 0, 0, 1
+                size_hint_x: .05
+            CustLabel:
+                text: ""
+                color: 0, 0, 0, 1
+                size_hint_x: .15
+            CustLabel:
+                text: ""
+                color: 0, 0, 0, 1
+                size_hint_x: .15
+ 
+    # ---------- Displays Popup & Spinner ----------
+    BoxLayout:
+        orientation: "horizontal"
+        height: 10
+
+        BoxLayout:
+            orientation: "horizontal"
+            size_hint_x: .25
+
+            CustLabel:
+                text: "目的地"
+                color: 0, 0, 0, 1
+                size_hint_x: .7
+
+            CustLabel:
+                text: "台中市"
+                color: 0, 0, 0, 1
+                size_hint_x: .7
+
+            Spinner:
+                text: "     區"
+                values: ['西屯','北屯','南屯','大雅']
+                id: spinner_id
+                on_text: root.spinner_clicked(spinner_id.text)
+        BoxLayout:
+            orientation: "horizontal"
+            size_hint_x: .25
+ 
+            Spinner:
+                text: "    路"
+                values: ["First", "Second", "Third"]
+                id: spinner_id
+                on_text: root.spinner_clicked(spinner_id.text)
+
+ 
+    # ---------- Holds Slider & Switch ----------
+    BoxLayout:
+    # ---------- Displays TabbedPanel ----------
+    BoxLayout:
+    BoxLayout:
+    BoxLayout:

@@ -8,31 +8,41 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.listview import ListItemButton
 from kivy.properties import ObjectProperty
 from kivy.base import runTouchApp
+from kivy.core.text import LabelBase
+import kivy.resources
+from kivy.core.window import Window
+from kivy.uix.popup import Popup
+ 
 
-#先import部分會用的資料庫
-
-class ListButton(ListItemButton):#按鈕部分
+class CustomPopup(Popup):
     pass
-#暫時跳過
-
-class AmbulancePassing(BoxLayout):#宣告物件
-    first_location_text_input = ObjectProperty()
-    last_location_text_input = ObjectProperty()
-    sth_list = ObjectProperty()
-
-    def submit_location(self):#輸入部分
-        first_location_spot = self.first_location_text_input.text
-
-    def delete_location(self):#之後的地點移除
-        pass
-
-    def replace_location(self):#之後的地點交換
-        pass
-
-class AmbulancePassingApp(App):
-    def build(self):
-        return AmbulancePassing()
+ 
+class SampBoxLayout(BoxLayout):
+ 
+    # For checkbox
+    checkbox_is_active = ObjectProperty(False)
     
-apApp = AmbulancePassingApp()
-apApp.run()
-#執行
+    # For radio buttons
+    blue = ObjectProperty(True)
+    red = ObjectProperty(False)
+    green = ObjectProperty(False)
+ 
+    # For Switch
+    def switch_on(self, instance, value):
+        if value is True:
+            print("Switch On")
+        else:
+            print("Switch Off")
+ 
+
+ 
+class SampleApp(App):
+    def build(self):
+        # Set the background color for the window
+        Window.clearcolor = (1, 1, 1, 1)
+        return SampBoxLayout()
+
+
+sample_app = SampleApp()
+sample_app.run()
+

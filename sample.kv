@@ -29,11 +29,11 @@ SampBoxLayout:
             size_hint_x: .55
 
             CustLabel:
-                text: "°_ÂI"
+                text: "èµ·é»"
                 color: 0, 0, 0, 1
                 size_hint_x: .05
             CustLabel:
-                text: "²{¦b¦ì¸m"
+                text: "ç¾åœ¨ä½ç½®"
                 color: 0, 0, 0, 1
                 size_hint_x: .05
             CustLabel:
@@ -55,29 +55,33 @@ SampBoxLayout:
             size_hint_x: .25
 
             CustLabel:
-                text: "¥Øªº¦a"
+                text: "ç›®çš„åœ°"
                 color: 0, 0, 0, 1
                 size_hint_x: .7
 
             CustLabel:
-                text: "¥x¤¤¥«"
+                text: "å°ä¸­å¸‚"
                 color: 0, 0, 0, 1
                 size_hint_x: .7
 
             Spinner:
-                text: "     °Ï"
-                values: ['¦è¤Ù','¥_¤Ù','«n¤Ù','¤j¶®']
+                text: "     å€"
+                values: ['è¥¿å±¯','åŒ—å±¯','å—å±¯','å¤§é›…']
                 id: spinner_id
                 on_text: root.spinner_clicked(spinner_id.text)
+
         BoxLayout:
             orientation: "horizontal"
             size_hint_x: .25
- 
+		
             Spinner:
-                text: "    ¸ô"
+                text: "    è·¯"
                 values: ["First", "Second", "Third"]
                 id: spinner_id
                 on_text: root.spinner_clicked(spinner_id.text)
+
+	TextInput:
+	    id: first
 
  
     # ---------- Holds Slider & Switch ----------

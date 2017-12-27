@@ -1,0 +1,82 @@
+
+<Label>:
+	color: 0, 0, 0, 1
+    font_name: 'DroidSansFallback.ttf'
+	font_size: 20
+	
+Input_Box_Layout:
+
+<Input_Box_Layout>:
+    orientation: "vertical"
+    padding: 10
+	spacing: 10
+ 
+    BoxLayout:
+        orientation: "horizontal"
+        height: 10
+ 
+        BoxLayout:
+            orientation: "horizontal"
+            size_hint_x: .35
+
+            Label:
+                text: "現在位置："
+                color: 0, 0, 0, 1
+                size_hint_x: .2
+
+            Label:
+                text: "台中市西屯區台灣大道四段1727號"
+                color: 0, 0, 0, 1
+                size_hint_x: .4
+			Label:
+                text: ""
+                color: 1, 1, 1, 1
+                size_hint_x: .4
+
+	BoxLayout:
+		orientation: "horizontal"
+		height: 10
+		
+		Label:
+			text: "目的地"
+			color: 0, 0, 0, 1
+			size_hint_x: .4
+
+		Label:
+			text: "台中市"
+			color: 0, 0, 0, 1
+			size_hint_x: .4
+
+		Spinner:
+			size_hint_x: .4
+			text: "＿＿區"
+			values: ['西 屯','北 屯','南 屯','大 雅']
+			id: spinner_id
+			on_text: root.spinner_clicked(spinner_id.text)
+
+		Spinner:
+			size_hint_x: .4
+			text: "＿＿路"
+			values: ["First", "Second", "Third"]
+			id: spinner_id
+			on_text: root.spinner_clicked(spinner_id.text)
+
+		TextInput:
+			id: to
+			size_hint_y: .7
+			font_name: 'DroidSansFallback.ttf'
+
+	BoxLayout:
+		orientation: "horizontal"
+		canvas:
+			Color:
+				rgb: 0, 0, 0
+			Rectangle:
+				size: self.size
+ 
+    # ---------- Holds Slider & Switch ----------
+    BoxLayout:
+    # ---------- Displays TabbedPanel ----------
+    BoxLayout:
+    BoxLayout:
+    BoxLayout:

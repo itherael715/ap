@@ -15,36 +15,15 @@ import kivy.resources
 from kivy.core.window import Window
 from kivy.uix.popup import Popup
  
-
-class CustomPopup(Popup):
+class Input_Box_Layout(BoxLayout):
     pass
  
-class SampBoxLayout(BoxLayout):
- 
-    # For checkbox
-    checkbox_is_active = ObjectProperty(False)
-    
-    # For radio buttons
-    blue = ObjectProperty(True)
-    red = ObjectProperty(False)
-    green = ObjectProperty(False)
- 
-    # For Switch
-    def switch_on(self, instance, value):
-        if value is True:
-            print("Switch On")
-        else:
-            print("Switch Off")
- 
-
- 
-class SampleApp(App):
+class EmbulancePassingApp(App):
     def build(self):
-        # Set the background color for the window
-        Window.clearcolor = (1, 1, 1, 1)
+        Window.clearcolor = (.85, .85, .85, .3)
         textinput = TextInput()
         textinput.bind()
-        return SampBoxLayout()
+        return Input_Box_Layout()
     
-sample_app = SampleApp()
-sample_app.run()
+EP_app = EmbulancePassingApp()
+EP_app.run()

@@ -1,0 +1,36 @@
+# coding: utf-8
+
+# 需先下載GoogleMap，否則api無法使用
+get_ipython().system('pip install -U googlemaps')
+#把金鑰放在f裡面
+f = open('YOUR_API_KEY.txt')
+
+import googlemaps
+from datetime import datetime
+
+gmaps = googlemaps.Client(key=f.read())
+#start_address為起始地址，目前放入榮總地址
+start_address = gmaps.reverse_geocode((24.18395,120.604649),
+                                                language = 'zh-TW')
+print(start_address[0]['formatted_address'])     
+#將地址轉換為經緯度座標
+geocode_result = gmaps.geocode(start_address[0]['formatted_address'])
+startlocation = geocode_result[0]["geometry"]["location"]
+
+now = datetime.now()
+#放入兩個座標，起始跟目的地的位置，gmaps.direction會自動選好路徑，計算多久
+#mode指交通工具，altenatives設定true指會顯示多條路
+directions_result = gmaps.directions((startlocation['lat'],startlocation['lng']),
+                                     (24.178895,120.600554),
+                                     mode="driving",
+                                     departure_time='now',
+                                     language = 'zh-TW',
+                                     alternatives = 'true')
+#將每一步指示print出來
+for i in range(len(directions_result)):
+    print('%d :'% i)
+    print(directions_result[i]['legs'][0]['duration']['text'])
+    for j in range(len(directions_result[i]['legs'][0]['steps'])):
+        print(directions_result[i]['legs'][0]['steps'][j]['html_instructions'])
+
+

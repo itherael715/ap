@@ -33,4 +33,27 @@ for i in range(len(directions_result)):
     for j in range(len(directions_result[i]['legs'][0]['steps'])):
         print(directions_result[i]['legs'][0]['steps'][j]['html_instructions'])
 
-
+import random
+import numpy as np 
+import pandas
+#建立表格
+df = pd.DataFrame(np.ones((0,5)),columns=['start','end','timenow','time','num'])
+ronzong = (24.1837584,120.6037066)
+#取出500個樣本
+for i in range(500):
+    #random出 目的地的緯度,經度
+    end =(float("{0:.7f}".format(random.uniform(24.1, 24.2))),float("{0:.7f}".format(random.uniform(120.5, 120.7))))
+    #random時間
+    rantime = datetime.datetime(2018, 1, 9,randrange(2,23),randrange(60))
+    directions_result = gmaps.directions(ronzong,
+                                     end,
+                                     mode="driving",
+                                     departure_time= rantime,
+                                     language = 'zh-TW',
+                                     alternatives = 'true')
+    howLong = directions_result[0]['legs'][0]['duration']['text']
+    insert = pd.DataFrame([[(24.1837584,120.6037066),end,rantime,howLong,1]],columns=['start','end','timenow','time','num'])
+    result = df.append(insert,ignore_index=True)
+    df = result
+#將表格變成csv檔案
+df.to_csv('data.csv')

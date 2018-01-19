@@ -1,0 +1,341 @@
+,cctvid,roadsection,locationpath,startlocationpoint,endlocationpoint,px,py,url
+0,64000C000001,大中路(高雄)(大中二路/華夏路到大中二路/翠華路),2084,2091,2093,120.30497,22.68577,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000001&w=340&h=260
+1,64000C000002,中華路(中華二路/同盟二路到中華三路/建國三路),2132,2137,2139,120.29132,22.64191,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000002&w=340&h=260
+2,64000C000003,中華路(中華二路/同盟二路到中華三路/建國三路),2132,2137,2139,120.29183,22.64189,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000003&w=340&h=260
+3,64000C000004,中華路(中華二路/九如二路到中華三路/八德二路),2132,2138,2140,120.29296,22.63687,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000004&w=340&h=260
+4,64000C000005,中華路(中華三路/八德二路到中華三路/六合二路),2132,2140,2142,120.29457,22.63275,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000005&w=340&h=260
+5,64000C000006,中華路(中華三路/民生二路到中華四路/新田路),2132,2144,2146,120.29905,22.62101,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000006&w=340&h=260
+6,64000C000007,九如路(九如一路/水源路到九如一路/澄清路),2203,2220,2221,120.34445,22.63626,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000007&w=340&h=260
+7,64000C000008,中華路(中華一路/明誠三路到中華二路/同盟二路),2132,2135,2137,120.29219,22.65310,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000008&w=340&h=260
+8,64000C000009,楠陽/鳳楠路口,-99,-99,-99,120.33031,22.72414,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000009&w=340&h=260
+9,64000C000010,博愛路(博愛四路/重愛路到博愛三路/曾子路),1993,1996,1998,120.31049,22.68129,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000010&w=340&h=260
+10,64000C000011,中正路(中正一路/福德三路到中正路/三多一路),2271,2285,2287,120.33580,22.62693,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000011&w=340&h=260
+11,64000C000012,中正路(中正一路/福德三路到中正路/三多一路),2271,2285,2287,120.33662,22.62668,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000012&w=340&h=260
+12,64000C000013,民族路(高雄)(民族一路(高雄)/華夏路到民族一路(高雄)/重愛路),2053,2054,2055,120.32091,22.68789,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000013&w=340&h=260
+13,64000C000014,民族路(高雄)(明誠一路(高雄)/民族一路到民族一路(高雄)/同盟一路),2053,2059,2061,120.31554,22.65543,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000014&w=340&h=260
+14,64000C000015,民族路(高雄)(民族一路(高雄)/大順一路到民族一路(高雄)/十全一路),2053,2060,2062,120.31482,22.64767,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000015&w=340&h=260
+15,64000C000016,民族路(高雄)(民族一路(高雄)/大順一路到民族一路(高雄)/十全一路),2053,2060,2062,120.31474,22.64735,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000016&w=340&h=260
+16,64000C000017,民族路(高雄)(民族一路(高雄)/九如二路到民族二路(高雄)/八德一路),2053,2063,2065,120.31374,22.63649,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000017&w=340&h=260
+17,64000C000018,民族路(高雄)(民族二路(高雄)/建國一路到民族二路(高雄)/七賢一路),2053,2064,2066,120.31368,22.63528,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000018&w=340&h=260
+18,64000C000019,五福路(五福二路/民權一路到五福一路/和平一路),2401,2415,2417,120.31423,22.62754,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000019&w=340&h=260
+19,64000C000020,五福路(五福四路/河西路到五福三路/成功一路),2401,2407,2409,120.29095,22.62069,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000020&w=340&h=260
+20,64000C000021,中山路(高雄)(中山四路/金福路到中山四路/大業北路),2013,2031,2033,120.33828,22.56998,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000021&w=340&h=260
+21,64000C000022,三多路(三多一路/武慶三路到三多一路/自由路),2454,2469,2471,120.33590,22.62398,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000022&w=340&h=260
+22,64000C000023,成功路(成功二路/復興三路到成功二路/擴建路),2303,2313,2314,120.30639,22.59191,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000023&w=340&h=260
+23,64000C000024,中華路(中華一路/大順一路到中華二路/九如二路),2132,2136,2138,120.29196,22.64915,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000024&w=340&h=260
+24,64000C000025,中華路(中華三路/中正四路-中華三路圓環到中華三路/五福三路-中華四路-中華三路圓環),2132,2143,2145,120.29713,22.62598,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000025&w=340&h=260
+25,64000C000026,中華路(中華三路/中正四路-中華三路圓環到中華三路/五福三路-中華四路-中華三路圓環),2132,2143,2145,120.29739,22.62578,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000026&w=340&h=260
+26,64000C000027,中山路(高雄)(中山一路/五福三路到中山二路/青年二路),2013,2020,2022,120.30160,22.62158,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000027&w=340&h=260
+27,64000C000028,中華路(中華四路/四維四路到中華五路/復興三路),2132,2148,2150,120.30213,22.61325,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000028&w=340&h=260
+28,64000C000029,旗津路(旗津三路/發祥街到旗津三路/復興三巷),2524,2530,2529,120.26900,22.60913,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000029&w=340&h=260
+29,64000C000030,旗津路(旗津三路/發祥街到旗津三路/復興三巷),2524,2530,2529,120.27720,22.59925,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000030&w=340&h=260
+30,64000C000031,旗津路(旗津三路/發祥街到旗津三路/復興三巷),2524,2530,2529,120.27535,22.60149,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000031&w=340&h=260
+31,64000C000032,旗津路(旗津三路/旗津二路到旗津二路/敦和街),2524,2528,2527,120.28484,22.58963,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000032&w=340&h=260
+32,64000C000033,大中路(高雄)(大中一路/鼎中路到大中二路/自由四路),2084,2086,2088,120.31905,22.67892,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000033&w=340&h=260
+33,64000C000034,大中路(高雄)(大中二路/華夏路到大中二路/翠華路),2084,2091,2093,120.30704,22.68403,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000034&w=340&h=260
+34,64000C000035,台 17(翠華路/菜公路到翠華路/新莊仔路),4432,4472,4474,120.29771,22.67865,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000035&w=340&h=260
+35,64000C000036,中華路(中華五路/復興三路到中華五路/凱旋四路),2132,2150,2151,120.30979,22.59366,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000036&w=340&h=260
+36,64000C000037,中華路(中華四路/青年二路到中華四路/三多四路),2132,2147,2149,120.30098,22.61623,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000037&w=340&h=260
+37,64000C000038,大中路(高雄)(大中一路/鼎中路到大中二路/民族一路),2084,2086,2087,120.32181,22.67751,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000038&w=340&h=260
+38,64000C000039,民族路(高雄)(民族一路(高雄)/裕誠路到民族一路(高雄)/大順一路),2053,2058,2060,120.31557,22.65972,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000039&w=340&h=260
+39,64000C000040,中山路(高雄)(中山四路/平和東路到中山四路/大業北路),2013,2032,2033,120.34947,22.56935,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000040&w=340&h=260
+40,64000C000041,新生路(新生路/新衙路到新生路/中興路),2514,2517,2532,120.31580,22.57671,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000041&w=340&h=260
+41,64000C000042,凱旋路(凱旋三路/二聖一路到凱旋四路/中山三路),2366,2374,2376,120.32462,22.60513,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000042&w=340&h=260
+42,64000C000043,民族路(高雄)(民族一路(高雄)/十全一路到民族二路(高雄)/建國一路),2053,2062,2064,120.31427,22.64044,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000043&w=340&h=260
+43,64000C000044,台 17(中華一路/慶豐街到中華一路/大順一路),4432,4477,4479,120.29225,22.66121,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000044&w=340&h=260
+44,64000C000045,台 17(翠華路/菜公路到翠華路/新莊仔路),4432,4472,4474,120.30290,22.68569,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000045&w=340&h=260
+45,64000C000046,九如路(九如一路/堯山街到高雄交流道(九如一路)),2203,2215,2219,120.32793,22.63909,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000046&w=340&h=260
+46,64000C000047,九如路(九如一路/大順二路到九如一路/水源路),2203,2216,2220,120.33673,22.63753,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000047&w=340&h=260
+47,64000C000048,翠華路(翠華路/菜公路到翠華路/大中二路),1954,1957,1958,120.30283,22.68886,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000048&w=340&h=260
+48,64000C000049,台 17(蓮海路/茂大街到東林路/沿海三路),4432,4508,4509,120.37202,22.54111,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000049&w=340&h=260
+49,64000C000050,台 17(蓮海路/沿海一路到東林路/沿海三路),4432,4507,4509,120.36297,22.55366,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000050&w=340&h=260
+50,64000C000051,高楠公路(高楠公路/加昌路到高楠公路/水管路),1948,1950,1952,120.32488,22.72172,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000051&w=340&h=260
+51,64000C000052,高楠公路(縱貫公路/高楠公路到高楠公路/民族一路),1948,1951,1953,120.32451,22.70666,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000052&w=340&h=260
+52,64000C000053,高楠公路(高楠公路/德民路到縱貫公路/高楠公路),1948,1949,1951,120.32207,22.72572,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000053&w=340&h=260
+53,64000C000054,民族路(高雄)(民族一路(高雄)/大中二路到民族一路(高雄)/裕誠路),2053,2056,2058,120.31705,22.66824,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000054&w=340&h=260
+54,64000C000055,民族路(高雄)(民族一路(高雄)/九如二路到民族二路(高雄)/八德一路),2053,2063,2065,120.30876,22.64504,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000055&w=340&h=260
+55,64000C000056,左楠路(左楠路/加昌路到左楠路/左營大路),1929,1930,1932,120.30239,22.70792,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000056&w=340&h=260
+56,64000C000057,左楠路(左楠路/後昌路到左楠路/左營大路),1929,1931,1932,120.30262,22.69937,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000057&w=340&h=260
+57,64000C000058,自由路(高雄)(自由四路/重信路到自由三路/曾子路),2040,2043,2045,120.31370,22.67928,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000058&w=340&h=260
+58,64000C000059,自由路(高雄)(自由三路/曾子路到自由二路/裕誠路),2040,2045,2047,120.30973,22.66871,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000059&w=340&h=260
+59,64000C000060,自由路(高雄)(自由二路/明誠二路到自由一路/同盟一路),2040,2048,2050,120.30885,22.65663,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000060&w=340&h=260
+60,64000C000061,自由路(高雄)(自由二路/大順一路到自由一路/十全一路),2040,2049,2051,120.30911,22.65002,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000061&w=340&h=260
+61,64000C000062,民權路(民權一路/民生一路到民權一路/五福二路),2419,2420,2421,120.31046,22.62761,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000062&w=340&h=260
+62,64000C000063,民權路(民權一路/五福二路到民權一路/青年一路),2419,2421,2422,120.31087,22.62646,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000063&w=340&h=260
+63,64000C000064,民權路(民權一路/四維三路到民權二路/二聖二路),2419,2423,2425,120.31433,22.61730,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000064&w=340&h=260
+64,64000C000065,民權路(民權二路/二聖二路到民權二路/中山三路),2419,2425,2427,120.31325,22.61014,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000065&w=340&h=260
+65,64000C000066,成功路(成功一路/四維四路到成功二路/復興三路),2303,2311,2313,120.31436,22.64443,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000066&w=340&h=260
+66,64000C000067,一心路(一心一路/民權二路到一心一路/和平二路),2486,2490,2492,120.31667,22.60870,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000067&w=340&h=260
+67,64000C000068,台 17(漢民路/沿海一路到蓮海路/沿海一路),4432,4506,4507,120.35241,22.56645,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000068&w=340&h=260
+68,64000C000069,新生路(新生路/漁港路到新生路/中興路),2514,2518,2532,120.32006,22.57175,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000069&w=340&h=260
+69,64000C000070,大順路(大順二路/鼎山街到大順二路/建德路),2153,2158,2160,120.32419,22.64982,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000070&w=340&h=260
+70,64000C000071,大順路(大順二路/九如一路到大順三路/河北路),2153,2161,2163,120.30318,22.67037,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000071&w=340&h=260
+71,64000C000072,三多路(三多一路/武慶三路到三多一路/自由路),2454,2469,2471,120.33676,22.62401,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000072&w=340&h=260
+72,64000C000073,新生路(新生路/凱旋路到新生路/鎮港路),2514,2515,2516,120.30371,22.59090,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000073&w=340&h=260
+73,64000C000074,新生路(新生路/中興路到新生路/金福路),2514,2532,2519,120.32347,22.56782,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000074&w=340&h=260
+74,64000C000075,建國路(建國四路/新興街到建國三路/北瑞街),2224,2388,2227,120.28412,22.63395,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000075&w=340&h=260
+75,64000C000076,高鳳路/高松路口,-99,-99,-99,120.37106,22.57275,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000076&w=340&h=260
+76,64000C000077,博愛路(博愛二路/明誠二路到博愛一路/同盟一路),1993,2003,2005,120.30329,22.65620,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000077&w=340&h=260
+77,64000C000078,台 17(漢民路/沿海一路到蓮海路/茂大街),4432,4506,4508,120.35723,22.56074,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000078&w=340&h=260
+78,64000C000079,建國路(建國三路/中華三路到建國二路),2224,2230,2232,120.29647,22.63792,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000079&w=340&h=260
+79,64000C000080,三多路(三多二路/和平一路到三多二路/福德三路),2454,2466,2468,120.32526,22.62072,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000080&w=340&h=260
+80,64000C000081,中山路(高雄)(中山三路/復興三路到中山三路/光華三路),2013,2025,2079,120.30894,22.60501,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000081&w=340&h=260
+81,64000C000082,中山路(高雄)(中山三路/光華三路到中山四路/五甲三路),2013,2079,2028,120.31642,22.59628,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000082&w=340&h=260
+82,64000C000083,(新生路-中興路)(新生路/中興路到新生路/旗津一路),2520,2521,2523,120.35025,22.52492,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000083&w=340&h=260
+83,64000C000084,左楠路(左楠路/加昌路到左楠路/後昌路),1929,1930,1931,120.30463,22.71780,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000084&w=340&h=260
+84,64000C000085,中正路(高雄交流道(中正1路)到中正路/三多一路),2271,2286,2287,120.34235,22.62474,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000085&w=340&h=260
+85,64000C000086,中正路(中正三路/復興一路到中正二路/和平一路),2271,2280,2282,120.31328,22.63063,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000086&w=340&h=260
+86,64000C000087,中山路(高雄)(中山一路/六合一路到中山一路/中山一路-民生一路-民生二路圓環),2013,2017,2019,120.30191,22.63136,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000087&w=340&h=260
+87,64000C000088,加昌路(加昌路/後昌路到加昌路/右昌街),1912,1917,1919,120.29143,22.71319,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000088&w=340&h=260
+88,64000C000089,左營大路(左營大路/必勝路到左營大路/中華路-鼓山三路圓環),1940,1946,1947,120.28659,22.67219,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000089&w=340&h=260
+89,64000C000090,中山路(高雄)(中山三路/光華三路到中山三路/凱旋四路),2013,2079,2027,120.31384,22.59870,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000090&w=340&h=260
+90,64000C000091,中山路(高雄)(中山二路/四維四路到中山三路/復興三路),2013,2023,2025,120.30458,22.61394,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000091&w=340&h=260
+91,64000C000092,中山路(高雄)(中山三路/凱旋四路到高雄端),2013,2027,2029,120.32231,22.58855,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000092&w=340&h=260
+92,64000C000093,左楠路(左楠路/後昌路到左楠路/左營大路),1929,1931,1932,120.30254,22.70087,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000093&w=340&h=260
+93,64000C000094,九如路(九如一路/大順二路到九如一路/水源路),2203,2216,2220,120.33758,22.63750,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000094&w=340&h=260
+94,64000C000095,瑞隆路(瑞隆路/武營路到瑞隆路/保泰路),2495,2499,2500,120.33907,22.60611,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000095&w=340&h=260
+95,64000C000096,中山路(高雄)(中山三路/光華三路到中山四路/五甲三路),2013,2079,2028,120.31567,22.59579,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000096&w=340&h=260
+96,64000C000097,中正路(中正二路/和平一路到中正路/大順三路),2271,2282,2284,120.32166,22.62998,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000097&w=340&h=260
+97,64000C000098,中山路(高雄)(中山四路/中安路到中山四路/平和東路),2013,2030,2032,120.33208,22.57667,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000098&w=340&h=260
+98,64000C000099,中正路(中正四路/自強二路到中正四路/自立二路),2271,2275,2277,120.29585,22.62942,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000099&w=340&h=260
+99,64000C000100,青年路(青年二路/海邊路到青年二路/永明街),2428,2429,2430,120.29354,22.61723,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000100&w=340&h=260
+100,64000C000101,博愛路(博愛三路/孟子路到博愛三路/新莊一路),1993,1999,2001,120.30371,22.67069,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000101&w=340&h=260
+101,64000C000102,博愛路(博愛三路/新莊一路到博愛二路/明誠二路),1993,2001,2003,120.30326,22.66590,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000102&w=340&h=260
+102,64000C000103,中山路(高雄)(中山路/建國二路到中山一路/七賢二路),2013,2014,2016,120.30235,22.63600,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000103&w=340&h=260
+103,64000C000104,博愛路(博愛一路/十全一路到博愛一路/九如二路),1993,2006,2007,120.30299,22.64406,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000104&w=340&h=260
+104,64000C000105,中山路(高雄)(中山一路/中山一路-民生一路-民生二路圓環到中山二路/新田路),2013,2019,2021,120.30101,22.62314,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000105&w=340&h=260
+105,64000C000106,中海路(中海路/軍校路到中海路/中正路),1933,1934,1935,120.29255,22.70068,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000106&w=340&h=260
+106,64000C000107,中山路(高雄)(中山三路/中山四路到中山一路/五福三路),2013,2018,2020,120.30150,22.62732,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000107&w=340&h=260
+107,64000C000108,大順路(大順二路/九如一路到大順三路/河北路),2153,2161,2163,120.32570,22.63285,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000108&w=340&h=260
+108,64000C000109,中正路(中正五路/大公路到中正四路/成功一路),2271,2272,2274,120.28885,22.62703,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000109&w=340&h=260
+109,64000C000110,建工路(建工路/大順二路到建工路/建德路),2164,2167,2166,120.32935,22.65230,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000110&w=340&h=260
+110,64000C000111,中山路(高雄)(中山路/建國二路到中山一路/中博車行地下道),2013,2014,2015,120.30249,22.63780,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000111&w=340&h=260
+111,64000C000112,博愛路(博愛二路/裕誠路到博愛二路/大順一路),1993,2002,2004,120.29786,22.61853,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000112&w=340&h=260
+112,64000C000113,成功路(成功一路/民生二路到成功一路/新田路),2303,2307,2309,120.29504,22.62115,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000113&w=340&h=260
+113,64000C000114,七賢路(七賢一路/民族二路到七賢一路/和平一路),2246,2255,2256,120.31669,22.63365,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000114&w=340&h=260
+114,64000C000115,九如路(九如二路/中華二路到九如二路/博愛一路),2203,2210,2212,120.29617,22.64182,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000115&w=340&h=260
+115,64000C000116,博愛路(博愛一路/中博車行地下道到博愛一路/九如二路),1993,2008,2007,120.30279,22.64137,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000116&w=340&h=260
+116,64000C000117,左營大路(左營大路/店仔頂路到左營大路/介壽路),1940,1944,1945,120.28807,22.68181,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000117&w=340&h=260
+117,64000C000118,建國路(建國一路/民族二路到建國一路/六合路),2224,2234,2267,120.31684,22.63493,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000118&w=340&h=260
+118,64000C000119,美術館路/美術東二路,-99,-99,-99,120.28818,22.65494,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000119&w=340&h=260
+119,64000C000120,海功路/軍校路口,-99,-99,-99,120.29246,22.69369,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000120&w=340&h=260
+120,64000C000121,翠華路(翠華路/東門路到翠華路/中華一路),1954,1960,1961,120.29112,22.67207,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000121&w=340&h=260
+121,64000C000122,哨船街/臨海二路,-99,-99,-99,120.26951,22.62447,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000122&w=340&h=260
+122,64000C000123,蓮海路-中山大學大門停車場出口,-99,-99,-99,120.26682,22.61774,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000123&w=340&h=260
+123,64000C000124,鼓山渡輪站,-99,-99,-99,120.27016,22.61977,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000124&w=340&h=260
+124,64000C000125,鼓山路(鼓山三路/五福四路到鼓山三路/濱海一路),1965,1974,1975,120.27501,22.62128,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000125&w=340&h=260
+125,64000C000126,五福路(五福四路/鼓山三路到五福四路/建國四路),2401,2402,2405,120.27809,22.62638,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000126&w=340&h=260
+126,64000C000127,中正路(中正五路/大公路到中正四路/成功一路),2271,2272,2274,120.28781,22.62670,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000127&w=340&h=260
+127,64000C000128,公園路/七賢路,-99,-99,-99,120.28026,22.62283,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000128&w=340&h=260
+128,64000C000129,五福路(五福四路/建國四路到五福四路/河西路),2401,2405,2407,120.28136,22.62478,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000129&w=340&h=260
+129,64000C000130,五福路(五福四路/七賢三路到五福四路/海邊路),2401,2406,2408,120.28948,22.62079,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000130&w=340&h=260
+130,64000C000131,建國路(建國二路/復興一路到建國一路/和平一路),2224,2270,2235,120.31368,22.63732,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000131&w=340&h=260
+131,64000C000132,建國路(建國一路/福德二路到建國一路/正義路),2224,2238,2239,120.33726,22.63028,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000132&w=340&h=260
+132,64000C000133,建國路(建國一路/福德二路到建國一路/正義路),2224,2238,2239,120.33558,22.63080,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000133&w=340&h=260
+133,64000C000134,大業北路(大業北路/中山四路到大業北路/小港路),2580,2581,2582,120.34297,22.56965,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000134&w=340&h=260
+134,64000C000135,大業北路(大業北路/漢民路到大業北路/中鋼路),2580,2583,2584,120.35267,22.55786,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000135&w=340&h=260
+135,64000C000136,旗津渡輪站,-99,-99,-99,120.26909,22.61412,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000136&w=340&h=260
+136,64000C000137,中華路(中華五路/復興三路到中華五路/凱旋四路),2132,2150,2151,120.30844,22.59689,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000137&w=340&h=260
+137,64000C000138,成功路(成功二路/復興三路到成功二路/擴建路),2303,2313,2314,120.30485,22.59571,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000138&w=340&h=260
+138,64000C000139,成功路(成功一路/三多四路到成功二路/復興三路),2303,2312,2313,120.29913,22.61055,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000139&w=340&h=260
+139,64000C000140,成功路(成功一路/三多四路到成功二路/擴建路),2303,2312,2314,120.30120,22.60529,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000140&w=340&h=260
+140,64000C000141,台 17(東林路/沿海三路到下厝路/中門路),4432,4509,9146,120.36248,22.51065,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000141&w=340&h=260
+141,64000C000142,金福路(金福路/新生路到金福路/港壽街),2533,2534,2536,120.32853,22.57106,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000142&w=340&h=260
+142,64000C000143,新生路(新生路/鎮港路到新生路/漁港路),2514,2516,2518,120.31229,22.58072,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000143&w=340&h=260
+143,64000C000144,旗津路(旗津二路/敦和街到旗津一路/廣澤街),2524,2527,2526,120.29915,22.57064,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000144&w=340&h=260
+144,64000C000145,漁港路(漁港路/德昌路到漁港路/翠亨北路),2543,2545,2547,120.32290,22.58181,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000145&w=340&h=260
+145,64000C000146,民權路(民權一路/青年一路到民權二路/三多三路),2419,2422,2424,120.31330,22.62032,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000146&w=340&h=260
+146,64000C000147,明誠路/金鼎路,-99,-99,-99,120.33052,22.66013,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000147&w=340&h=260
+147,64000C000148,大中路(高雄)(大中二路/澄觀路到大中二路/民族一路),2084,2085,2087,120.32319,22.67656,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000148&w=340&h=260
+148,64000C000149,旗楠路(旗楠路/立民路到旗楠路/楠梓新路),2618,2619,2620,120.33497,22.73781,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000149&w=340&h=260
+149,64000C000150,台 22(旗楠路/楠梓新路到旗楠路/立民路),4797,4799,4801,120.32250,22.60165,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000150&w=340&h=260
+150,64000C000151,台 1戊(建國一路/正義路到台 1戊/台 25),4625,4634,4636,120.36191,22.62554,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000151&w=340&h=260
+151,64000C000152,瑞隆東路出口閘道南向路口,-99,-99,-99,120.34096,22.60619,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000152&w=340&h=260
+152,64000C000153,台88鳳山交流道東向,-99,-99,-99,120.35889,22.59011,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000153&w=340&h=260
+153,64000C000154,台88鳳山交流道西向,-99,-99,-99,120.35888,22.59042,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000154&w=340&h=260
+154,64000C000155,自由路(高雄)(自由一路/三多一路到自由路/澄清路),2472,2473,2474,120.34434,22.62487,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000155&w=340&h=260
+155,64000C000156,台 1戊(建國一路/正義路到台 1戊/台 25),4625,4634,4635,120.33954,22.62949,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000156&w=340&h=260
+156,64000C000157,台 1戊(建國一路/正義路到台 1戊/台 25),4625,4634,4635,120.35660,22.62604,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000157&w=340&h=260
+157,64000C000158,縣 181(八德路433巷/青年路二段到八德路433巷/青年路二段),9432,9436,9436,120.34664,22.64785,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000158&w=340&h=260
+158,64000C000159,台 1(鳳松路/建國路二段到鳳仁路/建國路一段),2623,9294,9237,120.36385,22.63518,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000159&w=340&h=260
+159,64000C000160,自由路(高雄)(自由二路/裕誠路到自由二路/大順一路),2040,2047,2049,120.30904,22.66108,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000160&w=340&h=260
+160,64000C000161,縣 186(介壽東路/中山南路到岡山路/介壽路),9330,9342,9341,120.29709,22.78457,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000161&w=340&h=260
+161,64000C000162,台 1(台 1/台 19甲到中山北路/大德一路),2623,2692,9223,120.29460,22.79966,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000162&w=340&h=260
+162,64000C000163,台 19甲(台 19甲/台 1到成功路/嘉新東路),4571,4577,9196,120.29851,22.80743,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000163&w=340&h=260
+163,64000C000164,阿公店路2段/溪西路,-99,-99,-99,120.29053,22.78766,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000164&w=340&h=260
+164,64000C000165,台 19甲(中華路/柳橋西路到大義一路/仁壽路),4571,9200,9201,120.28850,22.79069,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000165&w=340&h=260
+165,64000C000166,台 19甲(大義一路/仁壽路到介壽路/介壽西路),4571,9201,9202,120.28486,22.78439,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000166&w=340&h=260
+166,64000C000167,台 1(大德三路/中山南路到中山北路/大德一路),2623,9225,9223,120.29908,22.79236,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000167&w=340&h=260
+167,64000C000168,台 1(介壽東路/中山南路到岡山南路/成功北路),2623,9226,9227,120.29881,22.78001,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000168&w=340&h=260
+168,64000C000169,鳳山區-國泰路二段、南京路西南角,-99,-99,-99,120.34454,22.62140,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000169&w=340&h=260
+169,64000C000170,鳳山區-國泰路二段、青年路一段東北角,-99,-99,-99,120.34922,22.61884,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000170&w=340&h=260
+170,64000C000171,鳳山區-國泰路二段、五甲二路西北角,-99,-99,-99,120.35338,22.61655,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000171&w=340&h=260
+171,64000C000172,鳳山區-國泰路一段、鳳頂路東南角,-99,-99,-99,120.36205,22.61409,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000172&w=340&h=260
+172,64000C000173,鳳山區-鳳頂路、保生路東北角,-99,-99,-99,120.35917,22.59309,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000173&w=340&h=260
+173,64000C000174,鳳山區-縣188、內坑路,-99,-99,-99,120.38467,22.58957,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000174&w=340&h=260
+174,64000C000175,鳳山區-縣188、鳳林路北側,-99,-99,-99,120.40492,22.58703,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000175&w=340&h=260
+175,64000C000176,鳳山區-縣188、鳳林路南側,-99,-99,-99,120.40535,22.58612,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000176&w=340&h=260
+176,64000C000177,鳳山區-縣188、光明路西側,-99,-99,-99,120.41981,22.58889,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000177&w=340&h=260
+177,64000C000178,鳳山區-縣188、光明路東側,-99,-99,-99,120.42016,22.58925,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000178&w=340&h=260
+178,64000C000179,鳳山區-縣188、華中路東南角,-99,-99,-99,120.42895,22.59163,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000179&w=340&h=260
+179,64000C000180,鳳山區-縣188、華中路西北角,-99,-99,-99,120.42835,22.59230,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000180&w=340&h=260
+180,64000C000181,鳳山區-五甲一路、瑞隆東路西北角,-99,-99,-99,120.34647,22.60688,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000181&w=340&h=260
+181,64000C000182,鳳山區-五甲一路、南京路東南角,-99,-99,-99,120.34578,22.60470,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000182&w=340&h=260
+182,64000C000183,鳳山區-九如一路、澄清路西南角,-99,-99,-99,120.34424,22.63596,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000183&w=340&h=260
+183,64000C000184,鳳山區-建國路三段、青年路二段東南角,-99,-99,-99,120.35076,22.63726,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000184&w=340&h=260
+184,64000C000185,鳳山區-中山東路、光遠東路西南角,-99,-99,-99,120.36789,22.62277,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000185&w=340&h=260
+185,64000C000186,鳳山區-鳳屏一路、大漢路路口東側,-99,-99,-99,120.38934,22.63398,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000186&w=340&h=260
+186,64000C000187,鳳山區-鳳屏一路、光明路三段西南角,-99,-99,-99,120.40114,22.63920,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000187&w=340&h=260
+187,64000C000188,鳳山區-鳳屏一路、光明路三段東北角,-99,-99,-99,120.40183,22.63964,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000188&w=340&h=260
+188,64000C000189,鳳山區-鳳屏一路、九和路西側,-99,-99,-99,120.41707,22.64186,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000189&w=340&h=260
+189,64000C000190,鳳山區-鳳屏一路、九和路西北角,-99,-99,-99,120.41822,22.64206,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000190&w=340&h=260
+190,64000C000191,鳳山區-光明路三段、江山路南側,-99,-99,-99,120.40243,22.63594,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000191&w=340&h=260
+191,64000C000192,鳳山區-光明路二段、琉球路南側,-99,-99,-99,120.41342,22.61147,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000192&w=340&h=260
+192,64000C000193,高屏大橋往西下橋匝道口(北側),-99,-99,-99,120.42822,22.64519,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000193&w=340&h=260
+193,64000C000194,高屏大橋往東上橋匝道口(南側),-99,-99,-99,120.42882,22.64483,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000194&w=340&h=260
+194,64000C000195,萬大大橋往西下橋匝道口(北側),-99,-99,-99,120.43309,22.59282,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000195&w=340&h=260
+195,64000C000196,萬大大橋往東上橋匝道口(南側),-99,-99,-99,120.43312,22.59214,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000196&w=340&h=260
+196,64000C000197,雙園大橋西向下橋(北側),-99,-99,-99,120.41267,22.49777,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000197&w=340&h=260
+197,64000C000198,台29、斜張橋南側,-99,-99,-99,120.44715,22.76494,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000198&w=340&h=260
+198,64000C000199,台29、溪埔路西北角,-99,-99,-99,120.44498,22.72828,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000199&w=340&h=260
+199,64000C000200,台29、縣186(中興東路)東南角,-99,-99,-99,120.43524,22.69162,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000200&w=340&h=260
+200,64000C000201,水管三路、義大二路(林山巷)東南角,-99,-99,-99,120.37947,22.70054,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000201&w=340&h=260
+201,64000C000202,大中二路、自由三路東南角,-99,-99,-99,120.31364,22.67908,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000202&w=340&h=260
+202,64000C000203,大中二路、民族一路西北角,-99,-99,-99,120.31875,22.67932,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000203&w=340&h=260
+203,64000C000204,大中一路、鼎中路北側,-99,-99,-99,120.32325,22.67703,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000204&w=340&h=260
+204,64000C000205,台29(統嶺路)、台22(里嶺大橋)東南角,-99,-99,-99,120.44947,22.77120,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000205&w=340&h=260
+205,64000C000206,高速公路(南下交流道)、鳳楠路西南角,-99,-99,-99,120.33201,22.72101,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000206&w=340&h=260
+206,64000C000207,高速公路(興西路)、鳳仁路東北角,-99,-99,-99,120.33317,22.72064,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000207&w=340&h=260
+207,64000C000208,加昌路、海專路西北角,-99,-99,-99,120.31709,22.72275,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000208&w=340&h=260
+208,64000C000209,仁雄路、鼎力路(路橋北側),-99,-99,-99,120.33229,22.67289,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000209&w=340&h=260
+209,64000C000210,本館路、球場路東南角,-99,-99,-99,120.33615,22.65544,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000210&w=340&h=260
+210,64000C000211,博愛三路、曾子路西南角,-99,-99,-99,120.30772,22.67881,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000211&w=340&h=260
+211,64000C000212,博愛一路、龍德路西南角,-99,-99,-99,120.30334,22.65427,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000212&w=340&h=260
+212,64000C000213,博愛一路、同盟二路西南角,-99,-99,-99,120.30328,22.65166,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000213&w=340&h=260
+213,64000C000214,博愛一路、十全二路西北角,-99,-99,-99,120.30291,22.64540,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000214&w=340&h=260
+214,64000C000215,博愛三路、大中二路西南角,-99,-99,-99,120.30984,22.68108,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000215&w=340&h=260
+215,64000C000216,博愛二路、立信街266巷西北角(漢神巨蛋對面),-99,-99,-99,120.30332,22.66828,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000216&w=340&h=260
+216,64000C000217,中山一路、七賢一路東南角,-99,-99,-99,120.30237,22.63435,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000217&w=340&h=260
+217,64000C000218,中山二路、四維四路東南角,-99,-99,-99,120.30364,22.61684,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000218&w=340&h=260
+218,64000C000219,中山二路、復興三路西北角,-99,-99,-99,120.30692,22.60733,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000219&w=340&h=260
+219,64000C000220,中山二路、新光路東北角,-99,-99,-99,120.30534,22.61247,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000220&w=340&h=260
+220,64000C000221,中山四路、中平路西北角,-99,-99,-99,120.32866,22.58041,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000221&w=340&h=260
+221,64000C000222,中山四路、中安路東南角,-99,-99,-99,120.32956,22.58033,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000222&w=340&h=260
+222,64000C000223,中安路、明鳳七街西北角,-99,-99,-99,120.33456,22.58313,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000223&w=340&h=260
+223,64000C000224,三多五路、成功二路西北角,-99,-99,-99,120.29841,22.61199,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000224&w=340&h=260
+224,64000C000225,成功二路、新光路東南角,-99,-99,-99,120.29922,22.61049,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000225&w=340&h=260
+225,64000C000226,中正二路、和平一路西南角,-99,-99,-99,120.31789,22.63033,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000226&w=340&h=260
+226,64000C000227,中正一路、輔仁路西南角,-99,-99,-99,120.33235,22.62799,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000227&w=340&h=260
+227,64000C000228,中正一路、福德路東北角,-99,-99,-99,120.32763,22.62972,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000228&w=340&h=260
+228,64000C000229,中正一路、河北路東南角,-99,-99,-99,120.32351,22.62970,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000229&w=340&h=260
+229,64000C000230,中正二路、民族二路東北角 ,-99,-99,-99,120.31362,22.63077,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000230&w=340&h=260
+230,64000C000231,中山一路、中正三路東側,-99,-99,-99,120.30222,22.63136,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000231&w=340&h=260
+231,64000C000232,橋頭區-成功南路橋新六路口,-99,-99,-99,120.31413,22.75010,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000232&w=340&h=260
+232,64000C000234,橋頭區-成功路橋頭路口,-99,-99,-99,120.30956,22.75980,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000234&w=340&h=260
+233,64000C000235,橋頭區-成功北路鐵道北路口,-99,-99,-99,120.30592,22.76687,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000235&w=340&h=260
+234,64000C000236,岡山區-介壽東路國一岡山交流道北入口,-99,-99,-99,120.32159,22.78809,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000236&w=340&h=260
+235,64000C000237,岡山區-介壽東路國一岡山交流道南出口,-99,-99,-99,120.31964,22.78760,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000237&w=340&h=260
+236,64000C000238,岡山區-聖森路安招路口,-99,-99,-99,120.31250,22.78989,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000238&w=340&h=260
+237,64000C000239,岡山區-介壽東路岡燕路口,-99,-99,-99,120.31504,22.78657,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000239&w=340&h=260
+238,64000C000240,岡山區-嘉新東路聖森路口,-99,-99,-99,120.31108,22.80773,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000240&w=340&h=260
+239,64000C000241,岡山區-岡山路河華路，河華路上控制器旁號誌桿,-99,-99,-99,120.29215,22.80157,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000241&w=340&h=260
+240,64000C000242,岡山區-岡山路河華路，岡山路上路燈桿,-99,-99,-99,120.29209,22.80175,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000242&w=340&h=260
+241,64000C000243,路竹區-中山南路本洲五街口,-99,-99,-99,120.26987,22.82059,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000243&w=340&h=260
+242,64000C000244,路竹區-中山路中華路口,-99,-99,-99,120.26072,22.85769,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000244&w=340&h=260
+243,64000C000245,湖內區-中山路一段東方路口,-99,-99,-99,120.24993,22.88075,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000245&w=340&h=260
+244,64000C000246,湖內區-中山路二段中華街口,-99,-99,-99,120.22713,22.90927,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000246&w=340&h=260
+245,64000C000247,永安區-保安路保寧路口,-99,-99,-99,120.23479,22.83586,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000247&w=340&h=260
+246,64000C000248,永安區-保安路維新路口,-99,-99,-99,120.24311,22.80817,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000248&w=340&h=260
+247,64000C000249,彌陀區-中正東路鹽埕大路口,-99,-99,-99,120.24476,22.79206,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000249&w=340&h=260
+248,64000C000250,彌陀區-中正東路中正南路口,-99,-99,-99,120.25280,22.77555,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000250&w=340&h=260
+249,64000C000251,梓官區-大舍南路大舍東路口,-99,-99,-99,120.26143,22.74713,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000251&w=340&h=260
+250,64000C000252,岡山區-本洲路289號前路燈桿,-99,-99,-99,120.26323,22.80738,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000252&w=340&h=260
+251,64000C000253,湖內區-東方路一段正大路口(興達港門口),-99,-99,-99,120.21388,22.87621,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000253&w=340&h=260
+252,64000C000261,大寮區-鳳林二路與新厝路交岔路口,-99,-99,-99,120.41177,22.56120,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000261&w=340&h=260
+253,64000C000262,大寮區-鳳林一路與會結路交岔路口,-99,-99,-99,120.41244,22.55536,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000262&w=340&h=260
+254,64000C000263,大寮區-鳳林路四段與鳳林一路交岔路口,-99,-99,-99,120.41142,22.54730,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000263&w=340&h=260
+255,64000C000264,林園區-鳳林路二段與王公路交岔路口,-99,-99,-99,120.39602,22.51317,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000264&w=340&h=260
+256,64000C000265,林園區-鳳林路二段與忠孝東路交岔,-99,-99,-99,120.39645,22.50713,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000265&w=340&h=260
+257,64000C000266,林園區-鳳林路一段與東林東路交岔路口,-99,-99,-99,120.39762,22.50377,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000266&w=340&h=260
+258,64000C000267,林園區-鳳林路一段與沿海路二段交岔路口,-99,-99,-99,120.39800,22.50068,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000267&w=340&h=260
+259,64000C000268,林園區-沿海路二段與王公路，東林西路交岔路口,-99,-99,-99,120.38242,22.50356,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000268&w=340&h=260
+260,64000C000269,林園區-沿海路二段與王公路，東林西路交岔路口,-99,-99,-99,120.38175,22.50343,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000269&w=340&h=260
+261,64000C000270,林園區-中門路與南星路交岔路口,-99,-99,-99,120.36269,22.51052,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000270&w=340&h=260
+262,64000C000271,小港區-沿海三路與沿海四路交岔路口,-99,-99,-99,120.36122,22.51311,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000271&w=340&h=260
+263,64000C000272,仁武區-鳳仁路與澄觀路交岔路口,-99,-99,-99,120.35291,22.68600,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000272&w=340&h=260
+264,64000C000273,楠梓區-鳳仁路與水管路交岔路口,-99,-99,-99,120.34212,22.70619,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000273&w=340&h=260
+265,64000C000274,鳥松區-中正路與大埤路，神農路交岔路口,-99,-99,-99,120.36414,22.65932,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000274&w=340&h=260
+266,64000C000275,鳥松區-大埤路與環湖路，公園路交岔路口,-99,-99,-99,120.35930,22.65791,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000275&w=340&h=260
+267,64000C000276,鳥松區-大埤路與長庚路交岔路口,-99,-99,-99,120.35605,22.65116,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000276&w=340&h=260
+268,64000C000277,鳥松區-大埤南路與澄清路交岔路口,-99,-99,-99,120.34896,22.65202,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000277&w=340&h=260
+269,64000C000278,鳥松區-澄清路與圓山路交岔路口,-99,-99,-99,120.34834,22.65027,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000278&w=340&h=260
+270,64000C000279,鹽埕區-大義街與公園二路交岔路口,-99,-99,-99,120.28556,22.62023,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000279&w=340&h=260
+271,64000C000280,鹽埕區-大勇路與公園二路交岔路口,-99,-99,-99,120.28270,22.62160,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000280&w=340&h=260
+272,64000C000281,苓雅區-成功二路與林森四路交岔路口,-99,-99,-99,120.29997,22.60832,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000281&w=340&h=260
+273,64000C000282,三多凱旋東北角(鐵路東側),-99,-99,-99,120.32528,22.62077,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000282&w=340&h=260
+274,64000C000283, 臨海新路消防隊,-99,-99,-99,120.27748,22.62021,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000283&w=340&h=260
+275,64000C000284,三多福德東北角,-99,-99,-99,120.32783,22.62160,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000284&w=340&h=260
+276,64000C000285,三多河北東北角,-99,-99,-99,120.33144,22.62284,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000285&w=340&h=260
+277,64000C000286,三多河南西南角,-99,-99,-99,120.33114,22.62273,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000286&w=340&h=260
+278,64000C000287,三多輔仁東南角,-99,-99,-99,120.33342,22.62352,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000287&w=340&h=260
+279,64000C000288,二聖凱旋西北角,-99,-99,-99,120.32670,22.61190,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000288&w=340&h=260
+280,64000C000289,二聖凱旋東南角,-99,-99,-99,120.32673,22.61171,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000289&w=340&h=260
+281,64000C000290,英祥凱旋西南角,-99,-99,-99,120.32653,22.61713,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000290&w=340&h=260
+282,64000C000291,英祥凱旋東北角,-99,-99,-99,120.32664,22.61717,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000291&w=340&h=260
+283,64000C000292,賢明凱旋東南角,-99,-99,-99,120.32544,22.60897,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000292&w=340&h=260
+284,64000C000293,育樂凱旋東南角,-99,-99,-99,120.32491,22.60665,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000293&w=340&h=260
+285,64000C000294,一心凱旋西南角,-99,-99,-99,120.32455,22.60511,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000294&w=340&h=260
+286,64000C000295,一心和平西南角,-99,-99,-99,120.32061,22.60686,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000295&w=340&h=260
+287,64000C000296,一心和平東北角,-99,-99,-99,120.32086,22.60683,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000296&w=340&h=260
+288,64000C000297,一心凱旋西北角,-99,-99,-99,120.32461,22.60523,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000297&w=340&h=260
+289,64000C000298,凱旋四路/班超路,-99,-99,-99,120.32425,22.60331,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000298&w=340&h=260
+290,64000C000299,凱旋四路/鎮興路,-99,-99,-99,120.31126,22.59343,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000299&w=340&h=260
+291,64000C000300,旗津渡輪站2,-99,-99,-99,120.26962,22.61405,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000300&w=340&h=260
+292,64000C000301,舊凱旋四路與班超路,-99,-99,-99,120.32377,22.60362,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000301&w=340&h=260
+293,64000C000302,凱旋四路與前鎮街,-99,-99,-99,120.30803,22.59259,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000302&w=340&h=260
+294,64000C000303,成功二路與凱旋四路,-99,-99,-99,120.30566,22.59341,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000303&w=340&h=260
+295,64000C000304,成功二路與正勤路,-99,-99,-99,120.30241,22.60179,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000304&w=340&h=260
+296,64000C000305,中華五路與復興三路,-99,-99,-99,120.30483,22.60647,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000305&w=340&h=260
+297,64000C000306,海邊路與永平路,-99,-99,-99,120.29202,22.61264,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000306&w=340&h=260
+298,64000C000307,海邊路與新田路,-99,-99,-99,120.29327,22.61886,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000307&w=340&h=260
+299,64000C000308,七賢三路與蓬萊路,-99,-99,-99,120.27913,22.62093,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000308&w=340&h=260
+300,64000C000309,臨海新路與蓬萊路,-99,-99,-99,120.27871,22.61963,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C000309&w=340&h=260
+301,64000C600001,臨海二路與鼓山一路口(北),-99,-99,-99,120.27494,22.62126,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600001&w=340&h=260
+302,64000C600002,臨海二路與鼓山一路口(南),-99,-99,-99,120.27497,22.62132,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600002&w=340&h=260
+303,64000C600003,臨海二路與鼓山一路口(西),-99,-99,-99,120.27502,22.62127,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600003&w=340&h=260
+304,64000C600004,臨海二路停車場(南),-99,-99,-99,120.27476,22.62137,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600004&w=340&h=260
+305,64000C600005,臨海二路停車場(北),-99,-99,-99,120.27476,22.62138,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600005&w=340&h=260
+306,64000C600006,麗雄街與臨海二路(西北),-99,-99,-99,120.27342,22.62226,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600006&w=340&h=260
+307,64000C600007,麗雄街與臨海二路(東南),-99,-99,-99,120.27335,22.62217,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600007&w=340&h=260
+308,64000C600008,鼓波街與臨海二路(西北),-99,-99,-99,120.27209,22.62302,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600008&w=340&h=260
+309,64000C600009,鼓波街與臨海二路(東南),-99,-99,-99,120.27193,22.62298,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600009&w=340&h=260
+310,64000C600010,麗雄街與臨海二路(PTZ),-99,-99,-99,120.27327,22.62221,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600010&w=340&h=260
+311,64000C600011,濱海二路停車場(西北),-99,-99,-99,120.26994,22.62411,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600011&w=340&h=260
+312,64000C600012,濱海二路停車場(南),-99,-99,-99,120.26995,22.62410,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600012&w=340&h=260
+313,64000C600013,哨船街與臨海二路(南),-99,-99,-99,120.26951,22.62433,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600013&w=340&h=260
+314,64000C600014,哨船街與臨海二路(東南),-99,-99,-99,120.26952,22.62433,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600014&w=340&h=260
+315,64000C600015,哨船街停車場(西),-99,-99,-99,120.26923,22.62357,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600015&w=340&h=260
+316,64000C600016,哨船街停車場(西北),-99,-99,-99,120.26930,22.62349,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600016&w=340&h=260
+317,64000C600017,濱海二路排隊處(北),-99,-99,-99,120.27006,22.61989,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600017&w=340&h=260
+318,64000C600018,濱海二路車道(北),-99,-99,-99,120.27007,22.61978,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600018&w=340&h=260
+319,64000C600019,濱海一路車道(東),-99,-99,-99,120.27007,22.61973,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600019&w=340&h=260
+320,64000C600020,輪渡站面海,-99,-99,-99,120.27003,22.61975,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600020&w=340&h=260
+321,64000C600021,濱海一路與臨海一路口(東北),-99,-99,-99,120.27275,22.61990,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C600021&w=340&h=260
+322,64000C700001,台 3(南寮巷/外環道路到清興街/旗屏二路),4997,9254,9255,120.49487,22.86939,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700001&w=340&h=260
+323,64000C700002,台 28(樹人橫路/延平三路到台 28/台 3),4911,9166,4914,120.49541,22.88302,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700002&w=340&h=260
+324,64000C700003,台 28(延平二路/竹寮巷到中學路/中華路),4911,9167,9168,120.48485,22.88215,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700003&w=340&h=260
+325,64000C700004,台 3(清興街/旗屏二路到旗屏二路/大里街),4997,9255,9257,120.50472,22.85808,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700004&w=340&h=260
+326,64000C700005,台 21(台 21/台 28到旗南一路/中洲路),4775,4787,9124,120.47414,22.87276,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700005&w=340&h=260
+327,64000C700006,台 3(台 3/台 28到中華路/外環道路),4997,5098,9253,120.48309,22.87922,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700006&w=340&h=260
+328,64000C700007,台 28(中興路二段/高97到延平二路/竹寮巷),4911,9165,9167,120.49646,22.88308,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700007&w=340&h=260
+329,64000C700008,台 3(永安街/延平一路到台 3/台 28),4997,9250,5098,120.48307,22.88356,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700008&w=340&h=260
+330,64000C700009,台 21(高屏103/旗南三路到擊天神路/中正路),4775,9129,9130,120.45897,22.79939,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700009&w=340&h=260
+331,64000C700010,台 21(旗南三路/和巷|到高屏103/旗南三路),4775,9128,9129,120.44933,22.77177,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700010&w=340&h=260
+332,64000C700011,台 22(縣186/中正路到燕巢交流道),4797,9262,4802,120.36780,22.76075,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700011&w=340&h=260
+333,64000C700012,中山路/和平一路,-99,-99,-99,120.36045,22.73031,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700012&w=340&h=260
+334,64000C700013,縣 186(文化巷/中正路到仁林路/仁心路),9330,9361,9363,120.36012,22.70320,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700013&w=340&h=260
+335,64000C700014,縣 186(文化巷/中正路到仁林路/仁心路),9330,9361,9363,120.35957,22.70367,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700014&w=340&h=260
+336,64000C700015,高鐵路/重信路,-99,-99,-99,120.30807,22.68652,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700015&w=340&h=260
+337,64000C700016,台 21(擊天神路/中正路到大坑路/溪埔路),4775,9130,9132,120.44747,22.74480,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700016&w=340&h=260
+338,64000C700017,台 21(台 21/台 22到興田路/溪埔路),4775,4788,9131,120.44818,22.75462,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700017&w=340&h=260
+339,64000C700018,台 28(中興路一段/高101到中興路二段/高97),4911,9163,9165,120.53431,22.88604,http://traffic.kctmc.nat.gov.tw/CCTV/cctv_view_atis.jsp?cctv_id=C700018&w=340&h=260

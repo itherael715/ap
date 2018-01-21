@@ -1,0 +1,126 @@
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="false"
+    android:orientation="vertical"
+    android:visibility="visible"
+    tools:context="com.example.embulanceapp.MapsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:text="起始位置"
+            android:textAlignment="center"
+            android:textColor="?attr/actionModeSplitBackground"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/startAdd"
+            style="@style/Widget.AppCompat.AutoCompleteTextView"
+            android:layout_width="262dp"
+            android:layout_height="58dp"
+            android:layout_weight="1"
+            android:hint="請輸入起始位置"
+            android:textSize="14sp" />
+
+        <ImageButton
+            android:id="@+id/buttonChange"
+            style="@style/Widget.AppCompat.ImageButton"
+            android:layout_width="58dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/arrow" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/end"
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="目的地"
+            android:textAlignment="center"
+            android:textColor="?attr/actionModeSplitBackground"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/endAdd"
+            style="@style/Widget.AppCompat.AutoCompleteTextView"
+            android:layout_width="292dp"
+            android:layout_height="52dp"
+            android:layout_weight="1"
+            android:hint="輸入目的地位置"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/buttonEnter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="?attr/actionModeSplitBackground"
+            android:text="搜尋"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="right|center"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <Button
+            android:id="@+id/buttonPlace"
+            android:layout_width="109dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorPrimaryDark"
+            android:text="重新定位"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/tvDistance"
+            android:layout_width="106dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="5dp"
+            android:text="0 km"
+            android:textAlignment="center" />
+
+
+        <TextView
+            android:id="@+id/tvDuration"
+            android:layout_width="89dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="5dp"
+            android:text="0 min"
+            android:textAlignment="center" />
+
+    </LinearLayout>
+
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
